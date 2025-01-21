@@ -1,0 +1,56 @@
+[
+    {
+        "image": "html-css.jpg",
+        "alt": "Image représentant les logos HTML et CSS",
+        "title": "HTML - CSS",
+        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
+    },
+    {
+        "image": "js.jpg",
+        "alt": "Image illustrant le logo JavaScript",
+        "title": "javascript",
+        "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
+    },
+    {
+        "image": "java.png",
+        "alt": "Image illustrant le logo Java",
+        "title": "Java",
+        "text": "Programmation orientée objet, création d'applications robustes et multiplateformes, gestion des données avec des outils performants."
+    },
+    {
+        "image": "mysql.png",
+        "alt": "Image illustrant le logo Mysql",
+        "title": "MySQL",
+        "text": "Gestion de bases de données relationnelles, création et manipulation de tables, optimisation des requêtes pour des performances accrues."
+    },
+    {
+        "image": "react.jpg",
+        "alt": "Logo React ",
+        "title": "React",
+        "text": "Création d’applications React, création de composants et manipulation de leur état"
+    },
+    {
+        "image": "angular.png",
+        "alt": "Logo Angular",
+        "title": "Angular",
+        "text": "Création d’applications Angular, création de composants et manipulation de leur état, TypeScript"
+    },
+    {
+        "image": "gestion-de-projet.png",
+        "alt": "Illustration représentant la gestion de projet",
+        "title": "Gestion de projet",
+        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet"
+    },
+    {
+        "image": "optimisation-et-debug.png",
+        "alt": "Image montrant des outils de débogage",
+        "title": "Optimisation et debug",
+        "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne"
+    },
+    {
+        "image": "test.png",
+        "alt": "Illustration d’un test logiciel",
+        "title": "Test",
+        "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
+    }
+]
