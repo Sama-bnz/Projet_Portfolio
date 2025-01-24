@@ -1,6 +1,6 @@
 [
     {
-        "image": "image1.png",
+        "image": "booki.png",
         "alt" : "Le projet Booki",
         "height" : "140px",
         "title": "Booki",
@@ -16,7 +16,7 @@
         "link": "https://github.com/Sama-bnz/project_sophie_bluel"
     },
     {
-        "image": "image3.png",
+        "image": "kasa.png",
         "alt" : "Le projet kasa",
         "height" : "140px",
         "title": "Kasa",
