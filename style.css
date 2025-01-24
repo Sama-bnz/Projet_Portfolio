@@ -16,6 +16,9 @@
 #contact {
     padding-bottom: 4rem;
 }
+p{
+    text-align: justify;
+}
 
 /* display background dark color on navbar scroll */
 .navbarScroll {
@@ -35,7 +38,7 @@
 .bgimage {
     height: 100vh;
     max-height: 900px;
-    background: url("images/image1.jpg");
+    background: url("images/fond-header.jpg");
     background-size: cover;
     position: relative;
 }
@@ -66,6 +69,7 @@
 .imageAboutPage {
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    margin-left: -5%;
 }
 
 /* skills */
@@ -118,5 +122,11 @@
 .contact-link:hover{
     color: black;
 }
+.card-img-top {
+    height: 140px;
+    object-fit: cover;
+    width: 100%;
+}
+
 
 /* footer */
