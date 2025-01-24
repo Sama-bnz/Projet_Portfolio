@@ -2,7 +2,7 @@
     {
         "image": "booki.png",
         "alt" : "Le projet Booki",
-        "height" : "140px",
+        "height" : "160px",
         "title": "Booki",
         "text": "Développement d'un site de réservation d'hôtels et de chambres pour les vacances.",
         "link": "https://github.com/Sama-bnz/Booki"
@@ -10,7 +10,7 @@
     {
         "image": "sophie-bluel.png",
         "alt" : "Le projet Mon vieux grimoire",
-        "height" : "140px",
+        "height" : "160px",
         "title": "Projet Sophie Bluel",
         "text": "Développement d'un site de gestion de projet pour architecte d'intérieur",
         "link": "https://github.com/Sama-bnz/project_sophie_bluel"
@@ -18,7 +18,7 @@
     {
         "image": "kasa.png",
         "alt" : "Le projet kasa",
-        "height" : "140px",
+        "height" : "160px",
         "title": "Kasa",
         "text": "Développement d'un site de reservation de chambre d'hôte.",
         "link": "https://github.com/Sama-bnz/Project-Kasa"
@@ -26,7 +26,7 @@
     {
         "image": "payforge.png",
         "alt" : "Le projet payforge",
-        "height" : "140px",
+        "height" : "160px",
         "title": "Projet PayForge",
         "text": "Concevoir une stratégie de test avec scénarios/préconisation, cahier de recette.",
         "link": "https://openclassrooms.com/fr/paths/902/projects/1485/project-evaluation"
