@@ -65,8 +65,6 @@ p{
 .imageAboutPage {
     width: 100%;
     margin-top: -65px;
-}
-.imageAboutPage {
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
     margin-left: -5%;
@@ -130,3 +128,18 @@ p{
 
 
 /* footer */
+
+@media screen and (max-width: 375px) {
+    #about,
+    #skills,
+    #portfolio,
+    #contact {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    }
+    .imageAboutPage{
+        margin-left: 0;
+        margin-bottom: 30px;
+        margin-top: 20px;
+    }
+  }
