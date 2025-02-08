@@ -36,13 +36,13 @@
         "text": "Création d’applications Angular, création de composants et manipulation de leur état, TypeScript"
     },
     {
-        "image": "gestion-de-projet.png",
+        "image": "gestion.png",
         "alt": "Illustration représentant la gestion de projet",
         "title": "Gestion de projet",
         "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet"
     },
     {
-        "image": "optimisation-et-debug.png",
+        "image": "optimisation.png",
         "alt": "Image montrant des outils de débogage",
         "title": "Optimisation et debug",
         "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne"
